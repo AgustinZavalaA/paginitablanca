@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'mipagina-light' );
+define( 'DB_NAME', 'mipagina-light2' );
 
 /** MySQL database username */
 define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '286ed24bcec70acba7e85eb59acb610c84f5aeab88ce4ac3' );
+define( 'DB_PASSWORD', '979f3614fd11c445947abc00be90b0098f35f29f5868f73f' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
